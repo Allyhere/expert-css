@@ -155,7 +155,7 @@ Variáveis CSS mereceram um tópico só pra elas pois são extremamente poderosa
 <br />
 
 ## <a id="cores-e-css"></a>Cores e CSS
-CSS está progressivamente dando suporte pra diversas funções de cores, permitindo ainda mais fidelidade com designs, facilidade com acessibilidade em relação à cor e a construção de paletas e gradientes mais expressivas. De antemão, recomendo seguir o perfil do Twitter do [Adam Argyle](twitter.com/argyleink), DevRel no Chrome e membro do CSSWG pra se atualizar desse assunto.
+CSS está progressivamente dando suporte pra diversas funções de cores, permitindo ainda mais fidelidade com designs, facilidade com acessibilidade em relação à cor e a construção de paletas e gradientes mais expressivas. De antemão, recomendo seguir o perfil do Twitter do [Adam Argyle](https://www.twitter.com/argyleink), DevRel no Chrome e membro do CSSWG pra se atualizar desse assunto.
 
 | Artigo | Autor |
 | ----------- | -------- |
