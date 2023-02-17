@@ -5,7 +5,16 @@
 ![Github Forks](https://img.shields.io/github/forks/allyhere/expert-css?style=flat-square)
 
 
-> Uma lista de leituras de conceitos, tecnologias, padrões de arquitetura e práticas modernas de CSS muito além do básico.
+Uma lista de leituras de conceitos, tecnologias, padrões de arquitetura e práticas modernas de CSS muito além do básico.
+
+
+<figure>
+
+  ![Uma caixa com fundo transparente e outline preto com os dizeres expertCss vazando pra fora dela. Declarações de CSS aparecem, ajustam a largura da caixa, centralizam o texto e, por último, aparece um emoji de joinha sinalizando que está tudo certo.](/assets/expertCss.gif "expert css logo")
+
+  <figcaption> Animação feita por mim, no Figma </figcaption>
+
+</figure>
 
 CSS pode ser um pouco frustrante as vezes, principalmente porque ele demanda tanta dedicação quanto Javascript e seus frameworks. Visando entrega e funcionalidade, são poucas as oportunidades que temos de exercer práticas modernas de CSS, mesmo que em forma de melhoria contínua, então a leitura e a prática constante se fazem ainda mais importante.
 
@@ -18,6 +27,8 @@ As atuais categorias listadas abaixo foram criadas e moldadas de forma a agrupar
 Esse material é licenciado por [Creative Commons Zero v1.0 Universal](https://choosealicense.com/licenses/cc0-1.0/#).
 
 Quem quiser conhecer o que eu escrevo, por ora estou no [DevTo](https://dev.to/lixeletto), bora conectar por lá!
+
+> Esse repositório foi inspirado no trabalho incrível do [Awesome-A11y](https://github.com/brunopulis/awesome-a11y) do Bruno Pulis, recomendo muito conhecer.
 
 
 <br />
