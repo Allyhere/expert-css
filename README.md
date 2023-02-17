@@ -8,14 +8,7 @@
 
 Uma lista de leituras de conceitos, tecnologias, padrões de arquitetura e práticas modernas de CSS muito além do básico.
 
-
-<figure>
-
-  ![Uma caixa com fundo transparente e outline preto com os dizeres expertCss vazando pra fora dela. Declarações de CSS aparecem, ajustam a largura da caixa, centralizam o texto e, por último, aparece um emoji de joinha sinalizando que está tudo certo.](/assets/expertCss.gif "expert css logo")
-
-  <figcaption> Animação feita por mim, no Figma </figcaption>
-
-</figure>
+![Uma caixa com fundo transparente e outline preto com os dizeres expertCss vazando pra fora dela. Declarações de CSS aparecem, ajustam a largura da caixa, centralizam o texto e, por último, aparece um emoji de joinha sinalizando que está tudo certo - Feito por Camilo Micheletto, via figma](/assets/expertCss.gif "expert css logo")
 
 CSS pode ser um pouco frustrante as vezes, principalmente porque ele demanda tanta dedicação quanto Javascript e seus frameworks. Visando entrega e funcionalidade, são poucas as oportunidades que temos de exercer práticas modernas de CSS, mesmo que em forma de melhoria contínua, então a leitura e a prática constante se fazem ainda mais importante.
 
