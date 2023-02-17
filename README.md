@@ -3,6 +3,7 @@
 ![License](https://img.shields.io/badge/license-CC0%201.0-green)
 ![Github Contributors](https://img.shields.io/github/contributors/allyhere/expert-css)
 ![Github Forks](https://img.shields.io/github/forks/allyhere/expert-css?style=flat-square)
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 
 Uma lista de leituras de conceitos, tecnologias, padrões de arquitetura e práticas modernas de CSS muito além do básico.
