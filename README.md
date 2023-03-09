@@ -248,6 +248,8 @@ Parecido com esse tópico, recomendo também a playlist [Speedy CSS Tips do Jhey
 | [Advanced CSS-Only HTML Form Styling](https://www.jonathan-harrell.com/blog/advanced-css-only-form-styling/) | Jonathan Harrell | Forms |
 | [What’s the Deal with Margin Collapse?](https://www.jonathan-harrell.com/blog/what%E2%80%99s-the-deal-with-margin-collapse/) | Jonathan Harrell | Forms |
 | [Better Typography with Font Variants](https://www.jonathan-harrell.com/blog/better-typography-with-font-variants/) | Jonathan Harrell | Forms |
+| [CSS Nesting](https://developer.chrome.com/articles/css-nesting/) | Adam Argyle | Nesting |
+| [Thinking About The Cut-Out Effect: CSS or SVG?](https://ishadeed.com/article/thinking-about-the-cut-out-effect/) | Ahmad Shadeed | Masking / SVG |
 
 &nbsp;
 <br />
